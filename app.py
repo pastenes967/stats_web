@@ -74,8 +74,14 @@ st.write("aro aro aro, esta aplicación ha comenzaoo 🇨🇱🇨🇱")
 st.write("by pastenes matias, aplicación de prueba")
 st.write("Ingrese el nombre del producto que desea buscar:")
 
-if st.button("moor el uber"):
-   st.write("no debimos jugar")
+if st.button("moor presionameee!!"):
+   st.write("el ubeeeer")
+   st.write("-----------")
+   st.write("no debimos jugar mafia")
+   if st.button("presionaaa x2")
+      st.write("aprendí a programar desde el celu 👿")
+      st.write("te amoo")
+    
 
 # Widget de entrada para el nombre del producto
 nombre_producto = st.text_input("Nombre del producto", "")
