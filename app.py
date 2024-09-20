@@ -78,7 +78,7 @@ if st.button("moor presionameee!!"):
    st.write("el ubeeeer")
    st.write("-----------")
    st.write("no debimos jugar mafia")
-   if st.button("presionaaa x2")
+   if st.button("presionaaa x2"):
       st.write("aprendí a programar desde el celu 👿")
       st.write("te amoo")
     
