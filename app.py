@@ -1,4 +1,4 @@
-import requests
+   import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import streamlit as st
@@ -69,6 +69,7 @@ def obtener_informacion_producto(producto):
 
 # Configurar la aplicación de Streamlit
 st.title("Web Scraping de Mercado Libre")
+st.write("commit de prueba desde el celu 🎛")
 st.write("aro aro aro, esta aplicación ha comenzaoo 🇨🇱🇨🇱")
 st.write("by pastenes matias, aplicación de prueba")
 st.write("Ingrese el nombre del producto que desea buscar:")
