@@ -72,6 +72,7 @@ st.title("Web Scraping de Mercado Libre")
 st.write("commit de prueba desde el celu 🎛")
 st.write("aro aro aro, esta aplicación ha comenzaoo 🇨🇱🇨🇱")
 st.write("by pastenes matias, aplicación de prueba")
+st.write("WEEEEENAAA")
 st.write("Ingrese el nombre del producto que desea buscar:")
     
 
