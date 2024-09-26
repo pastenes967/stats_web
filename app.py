@@ -91,3 +91,5 @@ if st.button("Buscar"):
         st.success(f"La información ha sido guardada en 'producto_{nombre_producto}.csv'")
     else:
         st.warning("No se pudo obtener la información de los productos o no se encontraron productos.")
+    
+st.download_button('descarga la data',producto_{nombre_producto}.csv)
