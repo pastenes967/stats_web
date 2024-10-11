@@ -92,4 +92,4 @@ if st.button("Buscar"):
     else:
         st.warning("No se pudo obtener la información de los productos o no se encontraron productos.")
     
-st.download_button('descarga la data',producto_{nombre_producto}.csv)
+#st.download_button('descarga la data',producto_{nombre_producto}.csv)
