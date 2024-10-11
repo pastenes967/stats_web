@@ -69,7 +69,7 @@ def obtener_informacion_producto(producto):
 
 # Configurar la aplicación de Streamlit
 st.title("Web Scraping de Mercado Libre")
-st.write("commit de prueba desde el celu 🎛")
+st.write("commit de prueba desde el celu version de pana 🎛")
 st.write("aro aro aro, esta aplicación ha comenzaoo 🇨🇱🇨🇱")
 st.write("by pastenes matias, aplicación de prueba")
 st.write("WEEEEENAAA")
